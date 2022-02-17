@@ -14,3 +14,6 @@ Check out relevant Scientific Articles:
 [Alan Baddeley (1996) Exploring the Central Executive, The Quarterly Journal of Experimental Psychology Section A, 49:1, 5-28, DOI: 10.1080/713755608](https://www.tandfonline.com/doi/abs/10.1080/713755608)
 
 [Jokar, E., & Mikaili, M. (2012). Assessment of human random number generation for biometric verification. Journal of medical signals and sensors, 2(2), 82–87.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3632045/)
+
+
+[Daria Knoch, Peter Brugger, Marianne Regard, Suppressing versus Releasing a Habit: Frequency-dependent Effects of Prefrontal Transcranial Magnetic Stimulation, Cerebral Cortex, Volume 15, Issue 7, July 2005, Pages 885–887](https://academic.oup.com/cercor/article/15/7/885/388047?login=true)
